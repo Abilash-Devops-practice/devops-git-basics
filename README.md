@@ -1,1 +1,3 @@
-Hey i'm Abilash, working in BNP paribas as senior support analyst
+Hi, i'm Abilash.
+I'm learning Devops 
+This is my first practical git project.
